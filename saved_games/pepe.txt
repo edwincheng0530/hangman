@@ -1,0 +1,24 @@
+--- !ruby/object:Game
+hangman: !ruby/object:Hangman
+  word: developer
+  num_of_guesses: 2
+  guess:
+  - _
+  - e
+  - _
+  - e
+  - l
+  - _
+  - p
+  - e
+  - _
+  guess_list:
+  - s
+  - m
+  - h
+  - "n"
+  correct_list:
+  - e
+  - l
+  - p
+saved: false

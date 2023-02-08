@@ -1,0 +1,20 @@
+--- !ruby/object:Game
+hangman: !ruby/object:Hangman
+  word: earlier
+  num_of_guesses: 3
+  guess:
+  - e
+  - _
+  - _
+  - _
+  - i
+  - e
+  - _
+  guess_list:
+  - d
+  - w
+  - "n"
+  correct_list:
+  - e
+  - i
+saved: false
